@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0242-valid-anagram) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3340-check-balanced-string](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3340-check-balanced-string) |

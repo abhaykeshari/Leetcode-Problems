@@ -112,12 +112,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0861-score-after-flipping-matrix) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0268-missing-number) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0242-valid-anagram) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3340-check-balanced-string](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3340-check-balanced-string) |
 ## Matrix
 |  |
@@ -186,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0182-duplicate-emails) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->

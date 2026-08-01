@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0861-score-after-flipping-matrix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0867-transpose-matrix) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0486-predict-the-winner](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0877-stone-game) |
 ## Stack
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0371-sum-of-two-integers) |
+| [0486-predict-the-winner](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0877-stone-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0877-stone-game) |
 ## Prefix Sum
 |  |
@@ -197,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

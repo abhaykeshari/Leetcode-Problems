@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1480-running-sum-of-1d-array) |
+| [1563-stone-game-v](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1563-stone-game-v) |
 | [1929-concatenation-of-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2029-stone-game-ix) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2029-stone-game-ix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |

@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2553-separate-the-digits-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |

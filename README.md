@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0240-search-a-2d-matrix-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0287-find-the-duplicate-number) |

@@ -12,7 +12,7 @@ class Solution {
 
             n /= 10;
         }
-
-        return original % (sum + product) == 0;
+        int result = sum+product;
+        return original % result == 0;
     }
 }

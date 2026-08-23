@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0287-find-the-duplicate-number) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0242-valid-anagram) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1927-sum-game](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/1927-sum-game) |

@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2029-stone-game-ix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0861-score-after-flipping-matrix) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1386-cinema-seat-allocation](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0242-valid-anagram) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1927-sum-game](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |

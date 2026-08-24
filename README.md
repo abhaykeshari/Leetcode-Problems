@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1386-cinema-seat-allocation](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1927-sum-game](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
@@ -318,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1510-stone-game-iv) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2029-stone-game-ix) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2029-stone-game-ix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -191,12 +194,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 ## Simulation
 |  |
 | ------- |
@@ -279,12 +284,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |

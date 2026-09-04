@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0073-set-matrix-zeroes) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0861-score-after-flipping-matrix) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |

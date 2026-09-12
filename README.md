@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
+| [0844-backspace-string-compare](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0258-add-digits) |
+| [0844-backspace-string-compare](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0844-backspace-string-compare](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1927-sum-game](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2114-maximum-number-of-words-found-in-sentences) |

@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2029-stone-game-ix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/abhaykeshari/Arrays-leetcode-problem/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -377,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/abhaykeshari/Leetcode-Problems/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
